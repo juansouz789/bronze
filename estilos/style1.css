@@ -139,6 +139,7 @@ header h1{
     border: 2px solid #f7119f6a;
     color: #f7119f6a;
     transform: translateY(8px);
+    margin-bottom: 1.2em;
 }
 .btn:hover {
     background-color: hsla(323, 100%, 39%, 0.416);
